@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this assignment, I will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+In this assignment, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 ### Deployment
 
@@ -25,7 +25,7 @@ In this assignment, I will make LIRI. LIRI is like iPhone's SIRI. However, while
 
 * [Movie-this](./images/moviethis.jpg)
 
-* [[Do-what-it-says](./images/dowhat.jpg)
+* [Do-what-it-says](./images/dowhat.jpg)
 
 
 ### Technologies Used
