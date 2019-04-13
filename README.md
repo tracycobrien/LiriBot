@@ -6,11 +6,11 @@ In this assignment, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI
 
 ### Deployment
 
-1. I will make a new GitHub Repo and Clone it to my computer
+1. I made a new GitHub Repo and Cloned it to my computer
 
-2. I will run npm install
+2. I ran npm install
 
-3. I will retrieve the data that will power this app, using the `axios` packages: the Bands in Town, Spotify and OMDB APIs. 
+3. I retrieved the data that powered this app, using the `axios` packages: the Bands in Town, Spotify and OMDB APIs. 
 
 
 
