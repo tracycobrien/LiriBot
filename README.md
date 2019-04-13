@@ -1,33 +1,38 @@
 # LiriBot
 
-Liri is like Siri on the Iphone, while Siri is a speech interpretation and recognition interface, Liri differs slightly because it is a language interpretation and recognition interface. Liri is a command line node app that takes in four parameter and returns relative data.
+### Overview
 
-concert-this  spotify-this-song  movie-this  do-what-it-says
+In this assignment, I will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-#Deployment
+### Deployment
 
-1.Set up Repo
-2.Run npm install
-3.Use Terminal to run node liri.js< passing in an instruction from above >
+1. I will make a new GitHub Repo and Clone it to my computer
 
-#ScreenShots of the project
+2. I will run npm install
 
-[Concert-this](./images/concertthis.jpg)
-
-[Spotify-this-song](./images/spotifythis.jpg)
-
-[Movie-this](./images/moviethis.jpg)
-
-[Do-what-it-says](./images/dowhat.jpg)
-
-#Technologies Used
-
-*NodeJS
-*JavaScript
-*Spotify API
-*BandsInTown API
-*OMDB API
-*NPM
+3. I will retrieve the data that will power this app, using the `axios` packages: the Bands in Town, Spotify and OMDB APIs. 
 
 
 
+   
+## Screenshots for the Project
+
+
+* [Concert-this](./images/concertthis.jpg)
+
+* [Spotify-this-song](./images/spotifythis.jpg)
+
+
+* [Movie-this](./images/moviethis.jpg)
+
+* [[Do-what-it-says](./images/dowhat.jpg)
+
+
+### Technologies Used
+
+* NodeJS
+* JavaScript
+* Spotify API
+* BandsInTown API
+* OMDB API
+* NPM
